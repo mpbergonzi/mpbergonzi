@@ -15,7 +15,10 @@
 <img align="center" alt="aws" src="https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" />
 <img align="center" alt="tableau" src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white" />
 <img align="center" alt="powerbi" src="https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
-</div>
+</div><br/>
+
+
+Apaixonado por tecnologia, Experiência de 12 anos impulsionando insights através da análise de dados, ajudando empresas a alcançarem os seus objetivos atráves de dados. 
 
 <!--
 **mpbergonzi/mpbergonzi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
